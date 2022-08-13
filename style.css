@@ -1,0 +1,15 @@
+.hide{
+
+    display: none;
+}
+
+.show{
+
+    display: block;
+}
+
+.colorchange{
+
+    background: yellow;
+    color: blue;
+}
